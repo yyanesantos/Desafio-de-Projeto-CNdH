@@ -1,6 +1,6 @@
 let nome = "Homem de Ferro" /*nome qualquer para o heroi, coloquei Homem de Ferro apenas como exemplo.*/
 
-let xp = 12000
+let xp = 12000 //apenas um exemplo de teste
 
 let nivel
 
